@@ -1,0 +1,97 @@
+Course Name
+Introduction to Computer Science - I
+Mathematics - I (Calculus)
+Statistics and Data Analysis
+Physics - I (General Physics)
+English
+Islamic Learning or Ethics
+Pakistan Studies
+Course Name
+Digital Computer Design Fundamentals
+Assembly Language Programming
+Mathematics - III (Linear    Algebra & Analytical Geometry)
+Materials, Semiconductors and Devices
+Discrete Mathematics
+Object Oriented Programming
+Course Name
+Theory of Computer Science
+Data Communication and Networking - I
+Stochastic Processes and Inference (Optional)
+Operations Research - I (Optional)
+Database Systems
+Computer Organization and Architecture
+Advanced Numerical Analysis (Optional)
+Artificial Intelligence
+System Analysis & Design (Optional)
+Business Programming Language (Optional)
+Course Name
+Course Name
+Theory of Operating Systems
+Compiler Construction - II
+Advanced Computer Graphics (Optional)
+Financial Accounting
+Microcomputer Design & Interfacing-II (Optional)
+Parallel Computing (Optional)
+Management Information System
+*Thesis
+Topics of Current/Special Interest. Introduction to Machine and    recent trends in Software Development. (Optional)
+VLSI Design Techniques (Optional)
+Network Security and Cryptography (Optional)
+Internet Application Development (Optional)
+Data Warehousing and Data Mining (Optional)
+Course Name
+Calculus and    Analytical Geometry
+Computer    Logic Design and Computer Organization
+Introduction    to Computer Science with Contemporary Language
+Islamic    Studies or Ethics
+English
+Introduction    to Software Engineering
+Course Name
+Business    Communication Skills
+Pakistan    Studies
+Calculus and    Analytical Geometry-II
+Linear    Algebra
+Object    Oriented Concepts
+Urdu / Humanities
+Course Name
+Relational    Data Base Management System
+Data    Structure and Application
+Ordinary    Differential Equation
+Automata    Theory
+Software    Development
+Probability    & Statistics
+Course Name
+Assembly    Language
+Introduction    to Operating Systems
+Business    Economics
+Discrete    Mathematics
+Advanced    Software Engineering
+Psychology
+Course Name
+Compiler    Construction
+Computer    Architecture
+Organizational    Behaviour
+Practical    Networking and Data Communications
+Artificial Intelligence    in Software Engineering
+Numerical    Analysis
+Course Name
+Internet Programming Techniques
+Topic of Current    Interest-I
+Software    Project Management
+Marketing    Management
+Network    Security
+Data Warehousing    & Data Mining
+Course Name
+Distributed    Computing
+Software    Process Management
+Computerized    Accounting
+Topic of    Current Interest-II
+Project - I
+Course Name
+Operations    Research
+Software    Testing
+Topic of    Current Interest-III
+Project-II
+Management    Risk and Decision Support System
+--- Web Infrastructure Services and Applications
+--- Enterprise Network Technologies/ Window/Linux

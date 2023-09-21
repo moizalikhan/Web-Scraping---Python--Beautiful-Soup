@@ -1,0 +1,406 @@
+
+
+
+
+UoK - Department of Computer Science
+
+
+
+
+
+
+ Department 
+        of Computer Science - UBIT
+Home
+
+
+
+ 
+Department 
+        of Computer Science - UBIT
+Home
+
+BSSE Course Outlines
+Semester I  Courses
+Semester II  Courses
+Semester III  Courses
+Semester IV  Courses
+Semester V  Courses
+Semester VI  Courses
+Semester VII  Courses
+Semester VIII  Courses
+
+
+Semester - I
+Course Name : Calculus and Analytical Geometry -   I
+          Pre-requisite : None
+          Credit Hours : 3
+Course Contents: 
+  Real and Complex Numbers, Functions and their Graphs,   Sequences, Differentiation, Chain Rule, Implicit Differentiation and its   Applications, Rolle’s and Mean Value Theorem, Approximations, Maxima/Minima,   Limits, Graph Sketching, L’Hospital’s Rule, Riemann Sums and Definite Integrals,   Integration and its Applications.
+Suggested Textbooks: 
+• Calculus by Thomas/Finney, 9th Edition, Published   by Addison-Wesley. 1996.
+• Calculus with Analytical Geometry by Anton,   Published by John Wiley & Sons. 1994.
+• Calculus and Analytical Geometry   by Stein, Sherman K, Bracellas, Anthony, 5th Edition, 1992.
+• Calculus by   Swokowski, Published by P.S.W. 1998.
+
+Course Name : Computer Logic Design and Computer   Organization
+          Pre-requisite : None
+          Credit Hours : 3
+Course Contents: 
+  Boolean Algebra, Number Systems, De-Morgan’s Theorem,   Minimization Techniques, Algebraic Techniques, Karnaugh Maps and Quin-MeCluskey   Methods, Computer Logic Circuits: Flip-Flops, Registers, Counters, Encoders,   Decoders, Half Adders and Full Adders Sequential Circuits, State Assignment and   Minimization Multiplexer. Basic Computer Organization, Processor Organization,   Memory Design and Organization. 
+Suggested Textbooks:
+• Computer System Architecture by M. Morris Mano,   10th Edition, Published by Prentice Hall International, Inc. London.1992.
+•   Digital Computer Fundamental Digital Logic by Mcalla. 1992.
+
+Course Name : Introduction to C/C++   Language
+          Pre-requisite : None
+          Credit Hours : 3+1
+Course Contents: 
+          Introduction to Computer Science and its Applications,   An Overview of Electronic Data Processing, Introduction to Computer Programming,   An Overview of Computer Programming Languages, Introduction to C language,   Introduction to Problem Solving and Algorithm Designing, Data Types and   Input/Output, Operators and Expressions, Flow Control, Arrays, Strings,   Functions, Introduction to Pointers, Structures, Files and File I/O.
+Suggested Textbooks:
+• C Programming Using Turbo C++ by Robert Lafore,   Published by Waite Group Press, 1999.
+• C++ How to Program by Deitel and   Deitel, Published by Prentice Hall, New Jersey, 2000.
+Course Name : Islamic Studies
+          Pre-requisite : None
+          Credit Hours : 2
+Course Contents: 
+  Study of Prescribed Surrahs of the Holy Quran and the   Prescribed Traditions of Holy Prophet (pbuh), Important Events from the   Prophet’s (pbuh) Life and Different Facts of Seerah, Ethical Values of Islam,   Unity of Muslim World.
+Suggested Textbooks : 
+• Islamiat for Students by Farkhanda Noor Muhammad,   Published by Feroz Sons, 1999 Revised Edition 2000.
+• Medina ul Ilm by   Tanveer Shah, Published by Fatmi Publishers Karachi, 1999.
+
+Course Name : Probability and   Statistics
+          Pre-requisite : None
+          Credit Hours : 3
+Course Contents: 
+  Measures of Central Tendency and Dispersion, Moments and   Kurtosis, Curve Fitting Sample Space, Probability, Baye’s Theorem, Random   Variables, Chebyshev’s Inequality, Binomial, Normal and Poisson Distributions,   Moment Generating Functions, Time Series Analysis, Correlation and Regression   (Simple, Partial and Multiple).
+Suggested Textbooks: 
+• Advanced Engineering Mathematics by Erwin Krayzig,   7th Edition, Published by John Wiley, New York, 1994.
+• Mathematical   Statistics by J.N.Kapoor, H.C. Sasena, 11th Edition, Published by S.Chand and   Company, 1982.
+• Statistics and Probability by Dr. Afzal Baig, 3rd Edition,   Published by Karvan Publishers, 1992.
+• Introduction to Statistics by Sher   Muhammad Choudhry, Published by Ilmi Kitab Khana Lahore, 1997.
+
+Semester - II
+Course Name : Business Communication Skills -   I
+          Pre-requisite : None 
+          Credit Hours : 3
+Course Contents: 
+          English Grammar: Parts of Speech; Sentence Structure;   Punctuation and Capitalization; Emphasizing and De-emphasizing; Comprehension   (Comprehension Passages, Translations, Discussions, Debates and Group   Activities); Business Communication Skills; Basic Principles of Business   Communications; The Seven Cs of Effective Communication, (Completeness,   Conciseness, Consideration, Concreteness, Clarity, Courtesy, Correctness); Types   of Business Writing (Letters, Memorandums, Reports and Proposals - Styles and   Formats) Effective Writing and Effective Language; Writing and New Communication   Technologies (Computers, E-mails, Networks, Telecommunication); Asking Questions   and Fact-Finding; Presentation Skills: Strategies for Improving Oral   Presentations, Essentials Steps for Preparing Presentations, Types of   Presentations; Types of Visual Aids, Their Choices and Usage; Effective   Non-verbal Delivery; Overcoming Stage Freight; Listening and Speaking Skills:   What is Good Speaking; Listening Skills; Self-development: Effective Time   Management; How I See Myself As a Person; Types of Behaviors; The Effects of   Childhood; Anger Management; Handling Criticism; Conflict Resolution. 
+Suggested Textbooks:
+• How to Sharpen your Business Writing Skills by Nan   Levinson and Janet Molinari Nelson.
+• Communication Skills for Managers by   Mannie Sherberg, Published by McGraw-Hill, 1998.
+• Effective Business   Communication by Herta A Murphy, Herbert W Hildebrandt and 
+          P. Thomson, 7th   Edition, Published by McGraw-Hill, 1997.
+
+Course Name : Pakistan Studies 
+          Pre-requisite :   None
+          Credit Hours : 2
+Course Contents: 
+          Ideology of Pakistan in Historical Perspective,   Different Phases of Pakistan Movement, Two-Nation Theory, Creation of Pakistan   and Important Events to Date, Measures Towards Establishment of Islamic System,   Facts about Geography and Economy of Pakistan, National Problems and Steps for   their Resolution.
+Suggested Textbooks:
+• Pakistan : The Real Picture by Rizwana Zahid Ahmed,   Published by Feroz Sons, 1998
+
+          Course Name : Calculus and Analytical Geometry -   II
+          Pre-requisite : Calculus and Analytical Geometry - I
+          Credit   Hours : 3
+Course Contents: 
+  First and Second Order Linear Differential Equations,   Isoclines and Integral Curves, Rate of Change Problems, Infinite Series, Systems   of Linear O.D.E’s, Qualitative and Numerical Methods, Fourier Series, Partial   Differential Equations. Polar Co-ordinates.
+Suggested Textbooks:
+• Calculus by Thomas/ Finney, 9th Edition, Published   by Addison-Wesley, 1996.
+• Calculus by Swokowski, Published by P.S.W.   1998.
+• Elementary Differential Equations by W and Diprima and Boyce, 5th   Edition, Published by John Wiley. 1994.
+Course Name : Linear Algebra
+          Pre-requisite : None 
+          Credit Hours : 3
+Course Contents: 
+          Matrix Algebra, Vector Spaces, Subspaces, Basis and   Dimension, Linear Transformation, Rank and Nullity, Inverse of a Matrix,   Determinants, Eigen Values and Eigen Vectors, Elementary Operations, Use of   Mathematical Software for Linear Algebra.
+Suggested Textbooks:
+• Advance Engineering Mathematics by Erwin Krayzig,   7th Edition, Published by John-Wiley, 1994.
+• Advance Course in Modern   Algebra by Dr. Goyas and Gupta, Published by Pragati Prakashan Merut, 1994.
+•   Topics Algebra by Hasten, Published by Ginn and Company, Revised by National   Book Foundation, 1997.
+• Mathematical Method by S.M.Yousuf, Published by Ilmi   Kitab Khana, 1999.
+
+Course Name : Object Oriented Concepts Using   Java
+          Pre-requisite : Introduction to C/C++ Language 
+          Credit Hours   : 3+1
+Course Contents: 
+          An Overview of problems faced in Function-Oriented   Programming, The need for a better approach, Introduction to the Object Oriented   Programming, Advantages of Object Oriented Programming, Classes and Objects,   Attributes and Behavior, Constructing and Initializing Objects in Java,   Encapsulation, Data Hiding, Access Modifiers, Method Overloading, Inheritance,   Polymorphism, Final Variables, Methods and Classes, Abstract Methods and   Classes, Interfaces, Java Garbage Collector, Exception Handling in Java, Java   I/O Package and Utility Classes.
+Suggested Textbooks:
+• Java - How To Program by Deitel and Deitel, 3rd   Edition, Published by Prentice-Hall, 1999.
+• The Sun Java Web-site   http://java.sun.com 
+• The Java Tutorial by Mary Campione, Kathy Walrath,   Published by Addison-Wesley, 1997.
+• Java Software Solutions by J. Lewis, W.   Loftus, Published by Addison-Wesley, 1998.
+Course Name : Software Engineering - I
+          Pre-requisite :   None
+          Credits Hours : 4
+
+          Course Contents: 
+          Introduction: Requirement Elicitation: Complete   understanding of the Problem Domain, Knowledge About Methods and Techniques for   Uncovering, Discovering, and Communicating Functional and Non-functional   Requirements and Constraints; Requirement Analysis: Modeling of Software   Requirements in the Information, Functional and Behavioral Domains of a Problem,   Perceived Primary and Derived Requirements of a System, Various Requirements   Modeling Methods (e.g. Structured Analysis, Object-Oriented Analysis), the Use   of Prototyping to Examine and Assess Requirements, Domain Analysis Techniques,   Requirement Specifications: Representation of Software Requirements that Result   from Requirement Elicitation and Requirements Analysis, Specification Standards,   Application of Specification Methods that Involve Structured Natural Language,   Graphical and Symbolic Notation, Design Description Languages and Formal   Specification Languages, Software Characteristics, The Software Crisis: Problems   & Causes, Software Engineering, Software Life Cycle: Overview of Software   Life Cycle, Software Engineering Paradigms, Types of Documentation,   Documentation throughout the Life Cycle, Project Initiation, System Analysis:   Problem Clarification & Scope, Objective & Feasibility Study Requirement   Analysis: Facts Finding Techniques, Analysis Principles, Essential &   Implementation View, Analysis Modeling: Data Modeling, Behavioral Modeling   System.
+          Case Study: A project will be assigned to students, which will be   carried out throughout the semester. They will practically apply everything on   the Project that was studied in theory. 
+Introduction to Waterfall, RAD, Spiral, Evo-Incremental Delivery Model, Wish   List, Creation and CASE Tools. An Introduction to Software Engineering, its   Requirement and Scope, Software Crises, Waterfall Model, Spiral Model, Jackson   Structured Programming Techniques, Managing Software Development, Requirement   Analysis, Introduction to Z-specifications, Overview of VDM, An Introduction to   SRS Diagrams.
+Suggested Textbooks:
+• Software Engineering Analysis and Design by C.   Eastral and G. Davis, Published by McGraw-Hill, 1992.
+• Software Engineering   by Roger S. Pressman, 4th Edition, Published by McGraw-Hill, 1997.
+
+Semester-III
+Course Name : Advanced Java
+          Pre-requisite : Object   Oriented Concepts Using Java
+          Credit Hours : 3+1
+Course Contents: 
+          Introduction to Windows Programming, Graphical User   Interface components, Using AWT to develop GUI applications, Using Swing for   Graphical Representation, Introduction to Internet Applications Development,   Java Applets, Multi-threading, Advanced Files and Streams, Java Database   Connectivity, Networking API, Java Servlets
+Suggested Textbooks:
+• Java - How to Program by Deitel and Deitel 3rd   Edition, Published by Prentice-Hall, 1999.
+• The Sun Java web-site   http://java.sun.com
+• The Java Tutorial by Mary Campione, Kathy Walrath,   Published by Addison-Wesley, 1997.
+• Java Software Solutions by J. Lewis, W.   Loftus, Published by Addison-Wesley, 1998.
+
+          Course Name : Relational Database Management Systems   (RDBMS)
+          Pre-requisite : None 
+          Credit Hours : 2+1
+Course Contents: 
+          Basic Database Concepts, Conceptual Modeling,   Hierarchical Network and Relational Data Models, Relational Theory and   Languages, Database Design, Database Security and Integrity Query Language and   Relational Calculus, Relational Algebra, SQL, Introduction to Query Processing   and Optimization, Introduction to Concurrency and Recovery, Front-end and   Back-end Databases.
+Suggested Textbooks: 
+• An Introduction to Databases by John Carten,   Published by Champman and Hall, 1995.
+• Database System, Principals, Design   and Implementation by C. Ricardo, Published by Maxwell-Macmillan, 2000.
+
+          Course Name : Data Structures Using   Java
+          Pre-requisite : Object Oriented Concepts Using Java
+          Credit   Hours : 3 + 1
+Course Contents: 
+          Introduction to Data Structures and their applications   in computer science, Abstract Data Structures, Stacks, Queues, Linked Lists,   Double-ended Queues, Ranked Sequences, Positional Sequences, Trees, Binary   Trees, Priority Queues, Heaps, Dictionaries, Graphs. Implementation using Java.   Searching algorithms for trees. 
+Suggested Textbooks:
+• Data Structures and Algorithms in Java by (M.T.   Goodrich and R. Tamassia), Published by John Wiley & Sons, Inc. 
+• The   Sun Java Web-site http://java.sun.com
+• Java - How to Program by Deitel and   Deitel, 3rd Edition, Published by Prentice-Hall, 1997.
+
+Course Name : Operations Research 
+          Pre-requisite :   None
+          Credit Hours : 3
+Course Contents: 
+  Operations Research, An Introduction, Linear   Programming, Requirements and Assumptions, General Formulation of LP Problems,   Solutions of LP Problems, Graphical Methods, Simplex Methods, Special Classes of   LP Problems, Transportation Problems, Northwest Method, Least Cost Method,   Vogel’s Method, Assignment Method, Using Transportation Method, Hungarian   Method, Network Analysis, PERT and CPM Networks, Development of Networks,   Estimating Activity Times, Determining Expected Project Duration, Crashing the   Project. 
+Suggested Textbooks:
+• Operations Research, by Dr. Saeed Akhtar Bhatti,   Published by A-One Publishers, 1998.
+• Operations Research, by Hamdy Taha,   Published by Prentice-Hall, 1988.
+
+          Course Name : Discrete Mathematics
+          Pre-requisite :   None
+          Credit Hours : 3
+Course Contents: 
+  Logical Forms and Logical Equivalence, Valid and Invalid   Arguments, Application: Digital Logic Circuit, Application: Number System and   Circuit for Addition, Predicates and Quantified Statements I, Arguments with   Quantified Statements, Direct Proof and Counter Example I: Introduction, Direct   Proof and Application: Algorithms, Sequences, Mathematical Induction, Basic   Definition of Set Theory, The Empty Set, Power Set and Boolean Algebra, Counting   & Probability, Functions Defined on General Sets, Application: FSA, One-One,   Onto and Inverse Function, Application: the Pigeonhole Principle, Recursively   Defined Sequences, Solving Recurrence Relations by Iteration, Real Valued   Function of a Real Variable and Their Graph, Introduction to O-Notation, Grap,   Trees.
+Suggested Textbooks:
+• Discrete Mathematics with Applications by Susanna   S. Epp. Published by Brooks/Cole Company, 1999.
+• Discrete Mathematics and   Its Applications by Kenneth H. Rosen, 4th Edition, Published by   McGraw-Hill.1999.
+
+          Course Name : Ordinary Differential   Equations
+          Pre-requisite : Calculus and Analytical Geometry - I &   II
+          Credit Hours : 3
+Course Contents: 
+  Ordinary Differential Equation of First Order, Separable   Equations, Equations Reducible to Separable Form, Homogeneous Equations,   Equations Reducible to Homogeneous Form, Exact Differential Equations, Ordinary   Linear Differential Equations, General Solutions, Real Roots, Complex Roots,   Bernoulli’s Equation, Homogeneous Linear Equations of Second Order, System of   Differential Equations, Series Solutions of Differential Equations, Differential   Operators, Cauchy Linear Equations.
+Suggested Textbooks:
+• Advanced Engineering Mathematics by Erwin Krayzig,   8th Edition, Published by John-Wiley, 1999.
+• Differential Equations with   Boundary Value Problems by Dennis G, Zill, Michael R Cullen, 3rd Edition,   Published by P.S.W. and Company, 1997.
+• Mathematical Methods by S.M. Yousuf,   Published by Ilmi Kitab Khana, 1999.
+
+
+Semester - IV
+
+Course Name : Assembly Language
+          Pre-requisite :   None
+          Credit Hours : 3+1
+Course Contents: 
+          Digital Computer Organization, Machine Language and   Mnemonics, Instruction Execution, Addressing Techniques, Digital Representation   of Data, Macros, Subroutines, Stack Interrupts, Physical Addressing, Segments,   Structures and Records, Assembly Language Programming Tools: Macro Assembler,   Linker and Debugger, Programming Assignments.
+Suggested Textbooks:
+• The Intel Family Microprocessors 8086/88, 80186,   80386, 80486, Architecture, Programming, Interfacing by Barray B Brey, Published   by Prentice-Hall, 1998.
+• Assembly Language Programming and Organization of   IBM PC, by Ythayu Charles Marut, Published by McGraw-Hill
+
+Course Name : Operating Systems
+          Pre-requisite :   None
+          Credit Hours : 4
+Course Contents: 
+          Overview and History of Operating Systems, Operating   Systems Concepts: Memory Management, Process Scheduling, Device and File   Management, Concurrent Processes and Deadlocks, Unix Systems Administration and   Shell Programming, Basic Concepts of Operating Systems, Structure and Functions,   such as Batch Processing, Time-Sharing, Real-Time Processing, Multi programming   and Multi Processing Systems, Processes and their Inter-Communication, Memory   Management: Principles and Algorithms, File Systems and Protection, Input/Output   and Interrupt Facilities, Detailed Analysis of a Small System Case Study.
+Suggested Textbooks:
+• Operating System Concepts by James Peterson/Abraham   S. Lbertechatz, Published by Addison Wesley, 1999.
+• Modern Operating Systems   by Tannenbaum, Published by Prentice Hall, 1993, 
+
+Course Name : Business Economics
+          Pre-requisite : None 
+          Credit Course : 3
+Course Contents: 
+  Concepts of Economics, Wealth, its Classification,   Economic Wants and Characteristics, Consumer Goods and Capital Goods, Utility,   Micro and Macro economics; Centrally Planned Economy, Mixed Economy, Consumer’s   Behavior, Law of Diminishing Marginal Utility, Law of Equi-Marginal Proportions,   Laws of Demand, Demand Price Elasticity, Demand Income Elasticity, Demand Cross   Elasticity, Laws of Supply, Elasticity of Supply Price Determination; Market   Price; Normal Price, Consumer’s Surplus and Producers Surplus; Price Regulation:   Minimum Prices and Maximum Prices, Factors of Production; Human Resource   Development; Scale of Production Internal and External Economies of Scale;   Diseconomies of Scale, Laws of Returns and Laws of Costs, Returns to Scale, Cost   or Production and Cost Curves, Market Structures; Forms of Business   Organization: Single Entrepreneurship; Partnership; Joint-Stock Company; Public   Enterprise Cooperative Society, Revenues of the Firm, Firm’s Price and Output   Determination; Perfect Competition; Monopoly and Monopolistic Competition,   Mathematical Treatment of Demand and Cost Functions and Determination of Firm’s   Equilibrium, Modern Theory of Distribution of Factor Rewards, National Income,   Different Concepts of National Income: GDP, GNP, NNP, NI, PI and DPI, Income   Flow Chart, Different Approaches to Measurement of NI; Product Approach;   Factor-Earning Approach Expenditure Approach Consumption Function, Concepts of   Average Propensity to Consume and Marginal Propensity to Consume; Average   Propensity to Save and Marginal Propensity to Save, Investment; Kinds of   Investment; Capital Formation, Investment Multiplier, Money; Functions of Money;   Kinds of Money, Quantity Theory of Money, Commercial Banks; Functions of   Commercial Banks; Process of Credit creation, Central Bank; Functions of Central   Bank; Objectives of Monetary Policy; Tools of Monetary Policy, Inflation; Causes   of Inflation; Consequences of Inflation; Remedies for Inflation; Deflation;   Reflation, Public Finance; Taxation; Kinds of Taxes; Direct Tax; Indirect Tax;   Proportional Tax; Progressive Tax; Regressive Tax; Principles of Taxation,   Public Expenditure; Principles of Public Expenditure; Role of Government in   Achieving Economic Goals, International Trade; Principle of Comparative   Advantage; Balance of Trade and Balance of Payments; Correction of   Disequilibrium of Balance of Payments; Terms of Trade; Trade Barriers; World   Trade Organization (WTO), Economies of Finance; Money Market; Instruments of   Money Market; Capital Market; Instruments of Capital Market; Stock Exchange and   its Functions; Speculation in Stock Exchange, Modern-day Developments; Role of   Information Technology in Modern Day Business; Globalization, it’s Justification   and it’s Probable Impacts; Growth Mania and the Problem of Environmental   Degradation; Concept of Sustainable Development.
+Suggested Textbooks:
+• Economic Theory Part (I) by Khawaja Abdul Haleem,   Published by Khawaja and Khawaja 1999-2000.
+• Modern Economic Theory by   K.K.Deewet, Published by Shyamlal Charitable, 1994.
+• Economics   (International Edition) by Paul A. Simulson, Published by McGraw-Hill, 1999.
+
+Course Name : Numerical Analysis
+          Pre-requisite :   None
+          Credit Hours : 3
+Course Contents: 
+          Error and Computer Arithmetic, Root-Finding for   Nonlinear Equations Interpolation and Polynomial Approximation, Solution of   Systems of Linear Equations, Numerical Differentiation and Integration and   Numerical Solution of Ordinary Differential Equations.
+Suggested Textbooks:
+• Numerical Analysis by Schaum Series, Published by   McGraw-Hill, 1989.
+• Fundamental of Numerical Analysis by Stephen G.   Kelligen, Published by Irwin, 1975. 
+
+Course Name : Business Communication Skills -   II
+          Pre-requisite : Business Communication Skills – I
+          Credit Hours   : 3
+Course Contents: 
+          Communications with an Organization Upward, Downward and   Horizontal; Benefits of Effective Communication; Concept and Problems of   Communications; Non-Verbal Communication; Ethics: Philosophy, Guidelines;   Proposals: Types of Proposals, Reports, Short, Periodic, Long, Supplemental   Sections; Presentations; Decision Plans; Direct and Indirect Audience Analysis   for Informative and Persuasive Speaking.
+Suggested Textbooks:
+• How to Sharpen your Business Writing Skills by Nan   Levinson and Janet Moliunari Nelson.
+• Business Communication by Mars Munter,   Published by Prentice-Hall, 1999.
+• Effective Business Communications by   Herta A. Murphy, W. Hilderbrant and P. Thompson, Published by McGraw-Hill,   1998.
+
+Semester - V
+Course Name : Compiler Construction
+          Pre-requisite :   Assembly Language
+          Credit Hours : 3
+Course Contents: 
+          Compiler Organization, Data and Instruction   Representation, ASCII Code Assembler Directives Versus Machine Instruction,   Keyboard Input and Screen Output, Instruction Formats and Types, Conversion   Between ASCII Strings and Binary Numbers, Stack Operation Debugging, Interrupt,   Macros, Video Output, Disk I/O.
+Suggested Textbooks:
+• Assembly Language for IBM-PC by K.R. Irwine,   Published by Maxwell-Macmillan, 1990.
+• Microprocessors and Interfacing by   D.V. Hall, Published by McGraw-Hill, 1999. 
+
+Course Name : Computer Architecture
+          Pre-requisite :   Computer Logic Design and Computer Organization
+          Credit Hours : 3
+Course Contents: 
+          Computer Organization: Control Unit Design, Instruction   Execution and Sequence of Control Signals Hardware and Micro programmed Control:   Input- Output- Programmed, Interrupt Driven and DMA, I/O and Interface Design,   Arithmetic Logic Unit Implementation, Addition, Subtraction, Multiplication and   Division Operations for Integer and Floating Point Numbers, Memory Organization,   Memory Hierarchy, Cache Memories, Mapping Functions and Page Replacement   Policies, Memory Management Requirements and Virtual Memory, Hardware Support,   Fundamentals of Computer Communications and Error Control.
+Suggested Textbooks:
+• Computer Organization and Architecture by W.   Stallings, Published by Prentice-Hall, 1999.
+• Computer Organization and   Architecture by Hyeo, J.P. 2nd Edition, Published by McGraw-Hill.
+
+          Course Name : Organization Behavior
+          Pre-requisite :   Business Economics
+          Credit Hours : 3
+Course Contents: 
+          The Environment, Managing Individuals, Managing Groups,   Managing Organization, Managing Process, Leadership, Decision Making, Conflict   and Negotiation, Change Innovation and Stress, Supplementary Module Research,   Foundation of Organization Behavior.
+Suggested Textbooks:
+• Organization Behavior by Schermerhorn, Hunt,   Osborne, Published by John Wiley, 1988.
+• Organizational Behavior by Fred   Luthans, 8th Edition, Published by Erwin/McGraw-Hill, 1998 
+
+          Course Name : Practical Networking and Data   Communications
+          Pre-requisite : None 
+          Credit Hours : 2+1
+Course Contents: 
+          Introduction to Communication Systems, Time Domain and   Frequency Domain Representation of Signals, Modulation and Demodulation, AM,   DSB, SSB and USB, Communication, Frequency Modulation, Comparison of SM and FM,   Sampling Theorem, PCM Systems, Differential Pulse Code, Modulation System, Delta   Modulation and Adaptive Delta Modulation System, Digital Modulation, BPSK, QPSK,   FSK Techniques, Multiplexing, FDM and TDM Hierarchy of T-1 System. Networking   Terms and Concepts, OSI Model, LAN, WAN, Transmission Media, Topologies and   Architecture, Transport Protocols, Connectivity Devices (Modems, Hubs,   Repeaters, Bridges, Routers, Gateways), Adapter Cards. 
+Suggested Textbooks:
+• Computer Networks by Stallings, William, Published   by IEEE Computer Society, 1990.
+• Data and Computer Communication by A.S.   Tenebaum, Published by Prentice-Hall, 1997.
+
+Course Name : Software Engineering - II
+          Pre-requisite   : Software Engineering - I
+          Credit Hours : 4
+Course Contents: 
+          Architectural Design: Techniques for Functional Design,   Object-Oriented Design, Real-time System Design, and Client-server System   Design, Abstract Specification: Notation and Techniques for Object-Oriented   Designs(UML), Structured Designs, Real-time System Design, and Client-server   System Design, Interface Design: Interface Design Principles, Task Analysis and   Interface Modeling, Implementation Tools, Information Presentation, Design   Evaluation, and User Documentation, Data Structure Design: Knowledge About How   to Translate the Data Objects Defined in the Analysis and Design Models into   Data Structures that Reside Within the Software System, Knowledge About Data   Dictionaries, Data-flow Diagram, and Entity Relationship Diagrams, Algorithm   Design: Knowledge About the Representation of Procedural Detail in an   Appropriate Notation or Language Such as Flow Charts, Box Diagrams, Decision   tables, and Program Design Languages Object Oriented Approach, Pros and Cons,   CORBA, Data Flow Diagram, Introduction to CASE tools, DFD its Need and Place in   SE, Logical Data Structure, Entity Life History, Relational Data Analysis,   Implementation, Myth and Reality, Software Design Technique-putting all   Together, Software Reuse and the CASE tools Related to Different Approaches,   Transition to Object Technology Using Fusion, Pilot Project Using Fusion on   Hewlett-Packard, Medical Imaging Project, Analysis Phase Retrospective,   Extending the Fusion Design Process for TMN, Application Development Using   Fusion for Commercial, Fixed Price Bespoke Development, An Approach to Process   Description Using Fusion, Evolutionary Fusion, Measuring and Improving the   Fusion Development Process, Requirements Engineering within the Fusion Method,   Proposed Enhancements to Fusion Method, Extension to Fusion Supporting,   Improving the Analysis Stage of the Fusion method,
+Suggested Textbooks:
+• Software Engineering Analysis and Design by C.   Eastral and G. Davis, Published by McGraw-Hill, 1992.
+• Software Engineering   by Roger S. Pressman 4th Edition, Published by McGraw-Hill, 1997. 
+• Object   Oriented Development at Work By Ruth, Malan, Reed LetSinger, Derek Coleman,   Published by Prentice-Hall, 1996. 
+• Software Engineering by Ian Somerville,   Published by Addison-Wesley Publishing Company, 1997.
+Semester - VI
+Course Name : Advanced Java and Internet   Programming
+          Pre-requisite : Practical Networking and Data   Communications 
+          Credit Hours : 3 + 1
+Course Contents: 
+          Exploiting the Streams Model, Object Serialization and   Persistence, Advanced Java Security, Creating Multi-Threaded Programs,   Networking, TCP/IP, and Sockets, Advanced User Interfaces with AWT and JFC,   Enterprise Java and the Java Web Server, Native Methods, Incorporating C/C++   into Java, Distributed Objects, RMI, and CORBA, Advanced Java Design Issues,   Introduction to Component Technology and Java Beans. 
+
+          Suggested Textbooks:
+• Java-How to Program by Deitel and Deitel 3rd   Edition, Published by Prentice-Hall, 1999.
+• The Sun Java Web-site   http://java.sun.com
+• The Java Tutorial by Mary Campione, Kathy Walrath,   Published by Addision-Wesley, 1997.
+• Java Software Solutions by J.Lewis,   W.Loftus, Published by Addison-Wesley, 1998.
+
+Course Name : Focus Course - I
+          Pre-requisite :   None
+          Credit Hours : 3
+
+          Course Name : Software Project Management 
+          Pre-requisite : Software Engineering - II
+          Credit Hours : 4
+Course Contents: 
+          Project Planning Objectives and Goals of the Project,   and Decide on the Strategies, Policies, Programs and Procedures for Achieving   the Project Objectives, Project Organization: Arranging the Activities into   Logical Clusters and Assigning These Logical Clusters to a Project team as well   as Delegating Responsibility and Authority to the Team Members, Project   Forecasting: Knowledge about Anticipating Future Events (such as availability of   personnel, predicted inflation rate and availability of new computer hardware),   Making an Informed Prediction of the Effort, Cost, Time, and Quality that will   be Needed for Developing, Changing, and Maintaining a Software System, Project   Scheduling: Determining Project Tasks, Allocating Resources for Completing the   Tasks, Determining Task Ordering and Dependencies, Scheduling Start and   Completion Times for each Project Task, and Establishing Project Milestone   Dates, Project Control: Measuring Performance against Goals and Plans,   Determining when Deviations Exist, and Initiating Actions to Correct Deviations,   Software Configuration Identification, Software Configuration Control, Software   Configuration Audit, Software Configuration Status Accounting, Project   Management and Related CASE tools, Risk Analysis Techniques, Cost Estimation,   Time Estimation, Scheduling, Software Matrices and Software Metrics
+Suggested Textbooks:
+• Project Management by Ghosh, Asitk, Kumar and Prem,   Published by Anmol, 1991.
+• Software Engineering Analysis and Design by C.   Eastral and G. Davis, Published by McGraw-Hill, 1992.
+• Software Engineering   by Roger S. Pressman 4th Edition, Published by McGraw-Hill, 1997.
+
+Course Name : Project - I
+          Pre-requisite :   None
+          Credit Hours : 0 + 3
+
+Course Name : Marketing Management
+          Pre-requisite :   Business Economics
+          Credit Hours : 3
+Course Contents: 
+          Marketing Environment, Strategies Planning and Marketing   Management, Information for Marketing Decisions, Understanding Markets, The   Composition of Markets and their Segmentation, Social Influence on Buyer   Behavior, The Psychology of Consumer Behavior, Intermediate Markets and their   Behavior, Basic Product Issues, Product Mix Decision, Pricing Objectives and   Strategies, Pricing Policies, Channels and their Dynamics, Retailing,   Wholesaling, Physical Distribution, Promotional Communication, Personal Selling   and Sales Management, Advertising, Sales Promotion, Multinational Marketing, The   Markets of Intangibles Services, Images and Causes, Managerial Control of   Marketing Strategy, Marketing and Society.
+Suggested Textbooks:
+• Marketing by Russ/ Kirkpatrick, Published by Little   Brown, 1982.
+• Principles of Management by Terry Franklin 8th Edition,   Published by AITBS, 1997.
+Semester - VII
+Course Name : Distributed Computing
+          Pre-requisite :   None
+          Credit Hours : 3
+Course Contents: 
+          ATM Layouts With Bounded Hop Count and Congestion, An   Algorithm for the Asynchronous, Process Collision, Proving Convergence of Self   Stabilizing Systems Using First Order Re-writing and Regular Languages,   Distributed Algorithms for Sparse Networks, How to Reconcile Fault Tolerant   Interval Intersection with Lipschitz Condition, Implementing CORBA GIOP in a   High Performance Object Requests Broker Environment. 
+
+Course Name : Software Process Management 
+          Pre-requisite : Software Project Management
+          Credit Hours : 4
+Course Contents: 
+          Quantitative Software Process Management: Establishing   Software Process Performance Goals, Measuring the Process Performance, Analyzing   Process Measurements, and Making Adjustments to Maintain Process Performance   Within Acceptable Limits, Software Process Improvement: Evolving a Process from   Lower Levels to Higher Levels of Process Maturity and How to Plan, Develop, and   Implement Changes to the Software Process, Software Process Assessment:   Assessment as a Diagnostic Tool to Aid Organizational Development, Software   Process Automation: Software Process Engineering: Representing the Important   Characteristics of a Process as a Coherent, Integrated set of Well-defined   Software Engineering and Management Processes for Organizations, Teams, and   Individuals, CMM (Capability maturity model), Standardization techniques, ISO   9000 Standards, and Process Maturity Techniques, Introduction to Principles,   Decision Frame Work, Established Frame Works, Established Project Goals and   Objective, Determining Benefits of Object Oriented Technology, What is a Process   Module, Select a Product Module, Plan and Control a Project, Case Studies of   Project Model, What is Reuse, Reuse Process Models, Organization Models for   Reuse, Select a Team Structure, Case Studies of Teams, Expectations for a   Software Development Environment, Analysis and Design Methods and Tools,   Languages, Libraries, Tools and Databases, Select a Software Development   Environment, What is in Training Plan, Setup a Training Plan, What is   Measurement, Failing with Objects.
+Suggested Textbooks:
+• Software Engineering Analysis and Design by C.   Eastral and G. Davis, Published by McGraw-Hill, 1992.
+• Software Engineering   by Roger S. Pressman, 4th Edition, Published by McGraw-Hill, 1997.
+
+Course Name : Computerized Accounting
+          Pre-requisite :   None
+          Credit Hours : 3
+Course Contents: 
+          Recording Business Transactions, Recording Payroll   Transactions, Recording Inventory, Preparing Job Costing Records, Preparing   Financial Statements, Use the Internet to Research a Topic and Prepare a   Report.
+Suggested Textbooks:
+• A Computer Accounting with Peachtree, By Yacht,   Carol 4th Edition, Release 7.0, 
+          Irwin McGraw-Hill, 2000. 
+
+Course Name : Focus Course –II
+          Pre-requisite : Focus   Course - I
+          Credit Hours : 3
+
+Course Name : Software Project + Demonstration Skills 
+          Pre requisite : Software Process Management
+          Credit Hours : 0 +   4
+Course Contents: 
+          In this course, the students would work in teams on an   assigned project with an external supervisor who would hold meetings on regular   intervals and would conduct the discussion sessions in such a way that the   students would learn from his practical experience in software houses.
+          In the   second half of the module, the students would be made to study a research topic   allocated to them from current journals and publications, They would be asked to   produce reports and present them in front of the class, This would help not only   improving their knowledge but their communication skills as well.
+
+Semester - VIII
+Course Name : Psychology
+          Pre-requisite : None
+          Credit   Hours : 3
+Course Contents: 
+          Media Violence and Aggressive Behavior, Studies in   Leader Legitimacy, Influence and Innovation, Experimental Studies of Negro-White   Relationship, Findings and Theory in the Study of Fear Communication, Perceived   Freedom, Experimental Studies on Families.
+Suggested Textbooks:
+• Experimental Psychology by Leo Postman, Published   by K.T. 1997.
+• Implicit Psychology by Daniel M.Wegner, Published by K.T.   1998.
+• Understanding Social Psychology by Hyper Collins, Published by Elliot   Aronson, 1994.
+
+Course Name : Focus Course - III
+          Pre-requisite :   Focus Course - II
+          Credit Hours : 3
+
+Course Name : Software Testing 
+          Pre-requisite :   Software Project + Demonstration Skills
+          Credit Hours : 2+2
+Course Contents: 
+          Introduction: Quality Assurance Concepts, Formal   Technical Review, ISO 9000 Quality Standards, Testing Techniques and Testing   Systems, Methods, Criteria and Automatic Tools for Software, Methods and   Techniques for Dynamics Program Testing, Methods of Systematic Test, Case   Determination and Test Data Preparation, Unit Testing, Integration Testing,   System Testing, Performance Testing, Acceptance Testing, Installation Testing,   Alpha and Beta Testing, Testing philosophies, White Box testing, Black Box   testing, Tread Testing, Stress Testing, Load Testing, Volume Testing, Test   Documentation, Inspection techniques, Fagan Inspections.
+Suggested Textbooks:
+• Software Development by F.G. Duncan.
+• Software   Adoption and Maintenance by North & Holland. 
+• Software Development by   Cliff B. Jones.
+
+Course Name : Project - III
+          Pre-requisite : Software   Project Demonstration Skills
+          Credit Hours : 0 + 4
+
+ 
+         
